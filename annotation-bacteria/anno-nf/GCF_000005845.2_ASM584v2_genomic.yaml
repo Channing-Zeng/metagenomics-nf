@@ -1,0 +1,6 @@
+topology: 'circular'
+organism:
+    genus_species: 'Escherichia coli'
+    strain: 'my_strain'
+consortium: 'E. coli genome group'
+locus_tag_prefix: 'anno-tmp'
